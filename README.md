@@ -35,7 +35,7 @@ Example12.py
     Enum, 异常
     
 Example13.py
-    调试与测试
+    调试与测试, logging
 
 Example14.py
     序列化
